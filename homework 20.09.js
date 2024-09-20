@@ -1,5 +1,5 @@
 //exercise 1
-let ageInMonths = 245;
+let ageInMonths = 8;
 
 if (ageInMonths < 1) {
     console.log("Age must be at least 1 month.");
